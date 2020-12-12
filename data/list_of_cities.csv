@@ -1,0 +1,574 @@
+,Unnamed: 0,city,geo_code,full_code,metro_area_name
+0,0,"Houston, TX",618,US-TX-618,Houston TX
+1,1,"Greenville, SC",567,US-SC-567,"Greenville-Spartanburg SC-Asheville NC-Anderson SC,"
+2,2,"Oklahoma City, OK",650,US-OK-650,Oklahoma City OK
+3,3,"St. Louis, MO",609,US-IL-609,St. Louis MO
+4,4,"Salt Lake City, UT",770,US-NV-770,Salt Lake City UT
+5,5,"Providence, RI",521,US-MA-521,Providence RI-New Bedford MA
+6,6,"Detroit, MI",505,US-MI-505,Detroit MI
+7,7,"New Orleans, LA",622,US-LA-622,New Orleans LA
+8,8,"San Francisco, CA",807,US-CA-807,San Francisco-Oakland-San Jose CA
+9,9,"Albuquerque, NM",790,US-NM-790,Albuquerque-Santa Fe NM
+10,10,"San Diego, CA",825,US-CA-825,San Diego CA
+11,11,"Portland, OR",820,US-OR-820,Portland OR
+12,12,"Minneapolis, MN",613,US-MN-613,Minneapolis-St. Paul MN
+13,13,"Dayton, OH",542,US-OH-542,Dayton OH
+14,14,"Madison, WI",669,US-WI-669,Madison WI
+15,15,"Richmond, VA",556,US-VA-556,Richmond-Petersburg VA
+16,16,"Schenectady, NY",523,US-NY-523,Albany-Schenactady-Troy NY
+17,17,"Durham, NC",560,US-NC-560,Raleigh-Durham (Fayetteville) NC
+18,18,"Tampa, FL",539,US-FL-539,Tampa-St. Petersburg (Sarasota) FL
+19,19,"Chicago, IL",602,US-IL-602,Chicago IL
+20,20,"Denver, CO",751,US-CO-751,Denver CO
+21,21,"Costa Mesa, CA",803,US-CA-803,Los Angeles CA
+22,22,"San Jose, CA",807,US-CA-807,San Francisco-Oakland-San Jose CA
+23,23,"Calgary, AB",AB,CA-AB,Calgary
+24,24,"Edmonton, AB",AB,CA-AB,Calgary
+25,25,"Vancouver, BC",BC,CA-BC,British Columbia
+26,26,"Philadelphia, PA",504,US-PA-504,Philadelphia PA
+27,27,"Des Moines, IA",679,US-IA-679,Des Moines-Ames IA
+28,28,"Cincinnati, OH",515,US-OH-515,Cincinatti OH
+29,29,"Louisville, KY",529,US-KY-529,Louisville KY
+30,30,"Memphis, TN",640,US-TN-640,Memphis TN
+31,31,"Fort Lauderdale, FL",528,US-FL-528,Miami-Ft. Lauderdale FL
+32,32,"San Antonio, TX",641,US-TX-641,San Antonio TX
+33,33,"Milwaukee, WI",617,US-WI-617,Milwaukee WI
+34,34,"Columbus, OH",535,US-OH-535,Columbus OH
+35,35,"Boston, MA",506,US-MA-506,Boston MA-Manchester NH
+36,36,"Montreal, QC",QC,CA-QC,Québec
+37,37,"Washington, DC",511,US-DC-511,Washington DC (Hagerstown MD)
+38,38,"Toronto, ON",ON,CA-ON,Ontario
+39,39,"Atlanta, GA",524,US-GA-524,Atlanta GA
+40,40,"Seattle, WA",819,US-WA-819,Seattle-Tacoma WA
+41,41,"Honolulu, HI",744,US-HI-744,Honolulu HI
+42,42,"Los Angeles, CA",803,US-CA-803,Los Angeles CA
+43,43,"Tempe, AZ",753,US-AZ-753,Phoenix AZ
+44,44,"Dallas, TX",623,US-TX-623,Dallas-Ft. Worth TX
+45,45,"Pittsburgh, PA",508,US-PA-508,Pittsburgh PA
+46,46,"Charlotte, NC",517,US-NC-517,Charlotte NC
+47,47,"Cleveland, OH",510,US-OH-510,Cleveland-Akron (Canton) OH
+48,48,"Tulsa, OK",671,US-OK-671,Tulsa OK
+49,49,"Nashville, TN",659,US-TN-659,Nashville TN
+50,50,"Appleton, WI",658,US-WI-658,Green Bay-Appleton WI
+51,51,"Omaha, NE",652,US-NE-652,Omaha NE
+52,52,"Austin, TX",635,US-TX-635,Austin TX
+53,53,"Wichita, KS",678,US-KS-678,Wichita-Hutchinson KS
+54,54,"Miami, FL",528,US-FL-528,Miami-Ft.Lauderdale FL
+55,55,"Orlando, FL",534,US-FL-534,Orlando-Daytona Beach-Melbourne FL
+56,56,"Baltimore, MD",512,US-MD-512,Baltimore MD
+57,57,"Buffalo, NY",514,US-NY-514,Buffalo NY
+58,58,"Syracuse, NY",555,US-NY-555,Syracuse NY
+59,59,"Ottawa, ON",ON,CA-ON,Ontario
+60,60,"Rochester, NY",538,US-NY-538,Rochester NY
+61,61,"Norfolk, VA",544,US-VA-544,Norfolk-Portsmouth-Newport News VA
+62,62,"Hartford, CT",533,US-CT-533,Hartford & New Haven CT
+63,63,"Spokane, WA",881,US-WA-881,Spokane WA
+64,64,"Anchorage, AK",743,US-AK-743,Anchorage AK
+65,65,"Sacramento, CA",862,US-CA-862,Sacramento-Stockton-Modesto CA
+66,66,"East Lansing, MI",551,US-MI-551,Lansing MI
+67,67,"Indianapolis, IN",527,US-IN-527,Indianapolis IN
+68,68,"Kansas City, MO",616,US-MO-616,Kansas City MO
+69,69,"Toledo, OH",547,US-OH-547,Toledo OH
+70,70,"Jacksonville, FL",561,US-FL-561,Jacksonville FL
+71,71,"Fort Myers, FL",571,US-FL-571,Ft. Myers-Naples FL
+72,72,"Raleigh, NC",560,US-NC-560,Raleigh-Durham (Fayetteville) NC
+73,73,"Birmingham, AL",630,US-AL-630,Birmingham AL
+74,74,"Fort Worth, TX",623,US-TX-623,Dallas-Ft. Worth TX
+75,75,"Tucson, AZ",789,US-AZ-789,Tucson (Sierra Vista) AZ
+76,76,"Peoria, IL",675,US-IL-675,Peoria-Bloomington IL
+77,77,"Gainesville, FL",592,US-FL-592,Gainesville FL
+78,78,"Sarasota, FL",539,US-FL-539,Tampa-St. Petersburg (Sarasota) FL
+79,79,"Mexico City, ",DIF,MX-DIF,Mexico City MX
+80,80,"Monterrey, ",NLE,MX-NLE,Nuevo Leon
+81,81,"Bloomington, IN",527,US-IN-527,Indianapolis IN
+82,82,"University Park, PA",574,US-PA-574,Johnstown-Altoona PA
+83,83,"Regina, SK",,CA-SK,Saskatchewan
+84,84,"Las Vegas, NV",839,US-NV-839,Las Vegas NV
+85,85,"Thousand Oaks, CA",803,US-CA-803,Los Angeles CA
+86,86,"Waterbury, CT",,US-CT,Connecticut
+87,87,"Grand Rapids, MI",563,US-MI-563,Grand Rapids-Kalamazoo-Battle Creek MI
+88,88,"Chattanooga, TN",575,US-TN-575,Chattanooga TN
+89,89,"Little Rock, AR",693,US-AR-693,Little Rock-Pine Bluff AR
+90,90,"Lincoln, NE",722,US-NE-722,Lincoln & Hastings-Kearney NE
+91,91,"Reno, NV",811,US-NV-811,Reno NV
+92,92,"Fresno, CA",866,US-CA-866,Fresno-Visalia CA
+93,93,"Knoxville, TN",557,US-TN-557,Knoxville TN
+94,94,"Davenport, IA",682,US-IA-682,Davenport IA-Rock Island-Moline IL
+95,95,"Columbia, SC",546,US-SC-546,Columbia SC
+96,96,"Huntsville, AL",691,US-AL-691,Huntsville-Decatur(Florence) AL
+97,97,"Boise, ID",757,US-ID-757,Boise ID
+98,98,"Eugene, OR",801,US-OR-801,Eugene OR
+99,99,"Naples, FL",571,US-FL-571,Ft. Myers-Naples FL
+100,100,"West Palm Beach, FL",548,US-FL-548,West Palm Beach-Ft. Pierce FL
+101,101,"North Charleston, SC",519,US-SC-519,Charleston SC
+102,102,"New Haven, CT",533,US-CT-533,Hartford & New Haven CT
+103,103,"Sioux Falls, SD",725,US-SD-725,Sioux Falls(Mitchell) SD
+104,104,"Fayetteville, AR",670,US-AR-670,Ft. Smith-Fayetteville-Springdale-Rogers AR
+105,105,"Hershey, PA",566,US-PA-566,Harrisburg-Lancaster-Lebanon-York PA
+106,106,"Kalamazoo, MI",563,US-MI-563,Grand Rapids-Kalamazoo-Battle Creek MI
+107,107,"Iowa City, IA",637,US-IA-637,Cedar Rapids-Waterloo-Iowa City & Dubuque IA
+108,108,"Winnipeg, MB",MB,CA-MB,Manitoba
+109,109,"Saskatoon, SK",SK,CA-SK,Saskatchewan
+110,110,"South Bend, IN",588,US-IN-588,South Bend-Elkhart IN
+111,111,"Clearwater, FL",539,US-FL-539,Tampa-St. Petersburg (Sarasota) FL
+112,112,"Scranton, PA",577,US-PA-577,Wilkes Barre-Scranton PA
+113,113,"El Paso, TX",765,US-TX-765,El Paso TX
+114,114,"Kitchener, ON",ON,CA-ON,Ontaro
+115,115,"Palm Desert, CA",804,US-CA-804,Palm Springs CA
+116,116,"Wilmington, DE",DE,US-DE,Delaware
+117,117,"Worcester, MA",MA,US-MA,Massachusettes
+118,118,"Utica, NY",526,US-NY-526,Utica NY
+119,119,"Valdosta, GA",525,US-GA-525,Albany GA
+120,120,"Tupelo, MS",673,US-MS-673,Columbus-Tupelo-West Point MS
+121,121,"Pensacola, FL",686,US-FL-686,Mobile AL-Pensacola (Ft. Walton Beach) FL
+122,122,"McAllen, TX",636,US-TX-636,Harlingen-Weslaco-Brownsville-McAllen TX
+123,123,"Corpus Christi, TX",600,US-TX-600,Corpus Christi TX
+124,124,"Melbourne, FL",534,US-FL-534,Orlando-Daytona Beach-Melbourne FL
+125,125,"Niceville, FL",686,US-FL-686,Mobile AL-Pensacola (Ft. Walton Beach) FL
+126,126,"Lakeland, FL",539,US-FL-539,Tampa-St. Petersburg (Sarasota) FL
+127,127,"Key West, FL",571,US-FL-571,Ft. Myers-Naples FL
+128,128,"Coral Springs, FL",528,US-FL-528,Miami-Ft.Lauderdale FL
+129,129,"Macon, GA",503,US-GA-503,Macon GA
+130,130,"Midland, TX",633,US-TX-633,Odessa-Midland TX
+131,131,"Wausau, WI",705,US-WI-705,Wausau-Rhinelander WI
+132,132,"Sioux City, IA",624,US-IA-624,Sioux City IA
+133,133,"Concord, NH",NH,US-NH,New Hampshire
+134,134,"Easton, PA",504,US-PA-504,Philadelphia PA
+135,135,"Binghamton, NY",502,US-NY-502,Binghamton NY
+136,136,"New Brunswick, NJ",NJ,US-NJ,New Jersey
+137,137,"Bangor, ME",537,US-ME-537,Bangor ME
+138,138,"Moncton, NB",NB,CA-NB,New Brunswick
+139,139,"Saint John, NB",NB,CA-NB,New Brunswick
+140,140,"Halifax, NS",NS,CA-NS,Nova Scotia
+141,141,"Rockford, IL",610,US-IL-610,Rockford IL
+142,142,"Cedar Rapids, IA",637,US-IA-637,Cedar Rapids-Waterloo-Iowa City & Dubuque IA
+143,143,"Mason City, IA",611,US-IA-611,Rochester MN-Mason City IA-Austin MN
+144,144,"London, ON",ON,CA-ON,Ontario
+145,145,"Thunder Bay, ON",ON,CA-ON,Ontario
+146,146,"Ames, IA",679,US-IA-679,Des Moines-Ames IA
+147,147,"Lawrence, KS",616,US-KS-616,Kansas City MO
+148,148,"Bartlesville, OK",671,US-OK-671,Tulsa OK
+149,149,"Lafayette, LA",642,US-LA-642,Lafeyette LA
+150,150,"Orange, TX",692,US-TX-692,Beaumont-Port Arthur TX 
+151,151,"Tyler, TX",709,US-TX-709,Tyler-Longview(Lufkin & Nacogdoches) TX
+152,152,"Conway, AR",693,US-AR-693,Little Rock-Pine Bluff AR
+153,153,"Rolla, MO",,US-MO,Missouri
+154,154,"Champaign, IL",648,US-IL-648,Champaign & Springfield-Decatur IL
+155,155,"Wheeling, WV",554,US-WV-554,Wheeling WV-Steubenville OH
+156,156,"Richmond, KY",541,US-KY-541,Lexington KY
+157,157,"Athens, OH",535,US-OH-535,Columbus OH
+158,158,"Atlantic City, NJ",NJ,US-NJ,New Jersey
+159,159,"Kennewick, WA",810,US-WA-810,Yakima-Pasco-Richland-Kennewick WA
+160,160,"Victoria, BC",BC,CA-BC,British Columbia
+161,161,"Cheyenne, WY",759,US-WY-759,Cheyenne WY-Scottsbluff NE
+162,162,"Benton Harbor, MI",563,US-MI-563,Grand Rapids-Kalamazoo-Battle Creek MI
+163,163,"Saginaw, MI",513,US-MI-513,Flint-Saginaw-Bay City MI
+164,164,"Flint, MI",513,US-MI-513,Flint-Saginaw-Bay City MI
+165,165,"Bowling Green, KY",736,US-KY-736,Bowling Green KY
+166,166,"Charlottesville, VA",584,US-VA-584,Charlottesville VA
+167,167,"Newport News, VA",544,US-VA-544,Norfolk-Portsmouth-Newport News VA
+168,168,"Danville, KY",541,US-KY-541,Lexington KY
+169,169,"Youngstown, OH",536,US-OH-536,Youngstown OH
+170,170,"Wallingford, CT",533,US-CT-533,Hartford & New Haven CT
+171,171,"Morgantown, WV",598,US-WV-598,Clarksburg-Weston WV
+172,172,"Morganton, NC",517,US-NC-517,Charlotte NC
+173,173,"Wilmington, NC",550,US-NC-550,Wilmington NC
+174,174,"Elmira, NY",565,US-NY-565,Elmira NY
+175,175,"Erie, PA",516,US-PA-516,Erie PA
+176,176,"Muncie, IN",527,US-IN-527,Indianapolis IN
+177,177,"Broken Arrow, OK",671,US-OK-671,Tulsa OK
+178,178,"Whitewater, WI",669,US-WI-669,Madison WI
+179,179,"Baton Rouge, LA",716,US-LA-716,Baton Rouge LA
+180,180,"Galveston, TX",618,US-TX-618,Houston TX
+181,181,"Folsom, CA",862,US-CA-862,Sacramento-Stockton-Modesto CA
+182,182,"Bakersfield, CA",800,US-CA-800,Bakersfield CA
+183,183,"Opelika, AL",522,US-AL-522,Columbus GA
+184,184,"Columbus, GA",522,US-GA-522,Columbus GA
+185,185,"Montgomery, AL",698,US-AL-698,Montgomery (Selma) AL
+186,186,"Oxford, AL",630,US-AL-630,Birgmingham AL
+187,187,"Augusta, GA",520,US-GA-520,Augusta GA
+188,188,"Athens, GA",524,US-GA-524,Atlanta GA
+189,189,"Evansville, IN",649,US-IN-649,Evansville IN
+190,190,"Huntington, WV",564,US-WV-564,Charleston-Huntington WV
+191,191,"Daytona Beach, FL",534,US-FL-534,Orlando-Daytona Beach-Melbourne FL
+192,192,"Savannah, GA",507,US-GA-507,Savannah GA
+193,193,"Jackson, MS",718,US-MS-718,Jackson MS
+194,194,"University, MS",673,US-MS-673,Columbus-Tupelo-West Point MS
+195,195,"Cleveland, MS",647,US-MS-647,Greenwood-Greenville MS
+196,196,"Shreveport, LA",612,US-LA-612,Shreveport LA
+197,197,"Abilene, TX",662,US-TX-662,Abilene-Sweetwater TX
+198,198,"Amarillo, TX",634,US-TX-634,Amarillo TX
+199,199,"Springfield, MO",619,US-MO-619,Springfield MO
+200,200,"New Philadelphia, OH",510,US-OH-510,Cleveland-Akron (Canton) OH
+201,201,"Springfield, OH",542,US-OH-542,Dayton OH
+202,202,"Modesto , CA",862,US-CA-862,Sacramento-Stockton-Modesto CA
+203,203,"San Luis Obispo, CA",855,US-CA-855,Santa Barbara-Santa Maria-San Luis Obispo CA
+204,204,"Midland, MI",513,US-MI-513,Flint-Saginaw-Bay City MI
+205,205,"Akron, OH",510,US-OH-510,Cleveland-Akron (Canton) OH
+206,206,"Green Bay, WI",658,US-WI-658,Green Bay-Appleton WI
+207,207,"Orange Park, FL",561,US-FL-561,Jacksonville FL
+208,208,"The Villages, FL",534,US-FL-534,Orlando-Daytona Beach-Melbourne FL
+209,209,"Reading, PA",566,US-PA-566,Harrisburg-Lancaster-Lebanon-York PA
+210,210,"Owensboro, KY",649,US-KY-649,Evansville IN
+211,211,"Charleston, WV",564,US-WV-564,Charleston-Huntington WV
+212,212,"Roanoke, VA",573,US-VA-573,Roanoke-Lynchburg VA
+213,213,"Lexington, KY",541,US-KY-541,Lexington KY
+214,214,"West Lafayette, IN",582,US-IN-582,Lafayette IN
+215,215,"Paducah, KY",632,US-KY-632,Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL
+216,216,"Cedar Falls, IA",637,US-IA-637,Cedar Rapids-Waterloo-Iowa City & Dubuque IA
+217,217,"La Crosse, WI",702,US-WI-702,La Crosse-Eau Claire WI
+218,218,"Manhattan, KS",605,US-KS-605,Topeka KS
+219,219,"Kearney, NE",722,US-NE-722,Lincoln & Hastings-Kearney NE
+220,220,"Phoenix, AZ",753,US-AZ-753,Phoenix AZ
+221,221,"Riverside, CA",803,US-CA-803,Los Angeles CA
+222,222,"Bozeman, MT",754,US-MT-754,Butte-Bozeman MT
+223,223,"Idaho Falls, ID",758,US-ID-758,Idaho Falls-Pocatello ID
+224,224,"Billings, MT",756,US-MT-756,Billings MT
+225,225,"Bismarck, ND",687,US-ND-687,Minot-Bismarck-Dickinson(Williston) ND
+226,226,"Fargo, ND",724,US-ND-724,Fargo-Valley City ND
+227,227,"Casper, WY",767,US-WY-767,Casper-Riverton WY
+228,228,"Fort Collins, CO",751,US-CO-751,Denver CO
+229,229,"Santa Barbara, CA",855,US-CA-855,Santa Barbara-Santa Maria-San Luis Obispo CA
+230,230,"Great Falls, MT",755,US-MT-755,Great Falls MT
+231,231,"Missoula, MT",762,US-MT-762,Missoula MT
+232,232,"Butte, MT",754,US-MT-754,Butte-Bozeman MT
+233,233,"Rapid City, SD",764,US-SD-764,Rapid City SD
+234,234,"Lima, OH",558,US-OH-558,Lima OH
+235,235,"Springfield, IL",648,US-IL-648,Champaign & Springfield-Decatur IL
+236,236,"Wabash, IN",509,US-IN-509,Ft. Wayne IN
+237,237,"Clinton Township, MI",505,US-MI-505,Detroit MI
+238,238,"Indiana, PA",508,US-PA-508,Pittsburgh PA
+239,239,"York, PA",566,US-PA-566,Harrisburg-Lancaster-Lebanon-York PA
+240,240,"Portland, ME",500,US-ME-500,Portland-Auburn ME
+241,241,"Burlington, VT",523,US-VT-523,Burlington VT-Plattsburgh NY
+242,242,"Shippensburg, PA",566,US-PA-566,Harrisburg-Lancaster-Lebanon-York PA
+243,243,"West Point, NY",,US-NY,New York
+244,244,"College Station, TX",625,US-TX-625,Waco-Temple-Bryan tX
+245,245,"Colorado Springs, CO",752,US-CO-752,Colorado Springs-Pueblo CO
+246,246,"Fort Wayne, IN",509,US-IN-509,Ft. Wayne IN
+247,247,"Greensboro, NC",518,US-NC-518,Greensboro-High Point-Winston Salem NC
+248,248,"Charleston, SC",519,US-SC-519,Charleston SC
+249,249,"Las Cruces, NM",765,US-NM-765,El Paso TX
+250,250,"Lubbock, TX",651,US-TX-651,Lubbock TX
+251,251,"Vienna, VA",511,US-VA-511,Washington DC (Hagerstown MD)
+252,252,"Englewood, NJ",NJ,US-NJ,New Jersey
+253,253,"Texarkana, TX",612,US-LA-612,Shreveport LA
+254,254,"Lancaster, PA",566,US-PA-566,Harrisburg-Lancaster-Lebanon-York PA
+255,255,"Morristown, NJ",NJ,US-NJ,New Jersey
+256,256,"Mountain Home, AR",619,US-AR-619,Springfield MO
+257,257,"Maumelle, AR",693,US-AR-693,Little Rock-Pine Bluff AR
+258,258,"Lufkin, TX",709,US-TX-709,Tyler-Longview(Lufkin & Nacogdoches) TX
+259,259,"Pueblo, CO",752,US-CO-752,Colorado Springs-Pueblo CO
+260,260,"Medford, OR",813,US-OR-813,Medford-Klamath Falls
+261,261,"Chico, CA",868,US-CA-868,Chico-Redding CA
+262,262,"Keene, NH",506,US-NH-506,Boston MA-Manchester NH
+263,263,"Brookville, NY",501,US-NY-501,New York NY
+264,264,"Bethlehem, PA",504,US-PA-504,Philadelphia PA
+265,265,"Albany, NY",532,US-NY-532,Albany-Schenactady-Troy NY
+266,266,"Lowell, MA",506,US-MA-506,Boston MA-Manchester NH
+267,267,"Williamsport, PA",577,US-PA-577,Wilkes Barre-Scranton PA
+268,268,"Prescott, AZ",753,US-AZ-753,Phoenix AZ
+269,269,"Prior Lake, MN",613,US-MN-613,Minneapolis-St. Paul MN
+270,270,"Topeka, KS",605,US-KS-605,Topeka KS
+271,271,"Sugar Land, TX",618,US-TX-618,Houston TX
+272,272,"San Angelo, TX",661,US-TX-661,San Angelo TX
+273,273,"Stockton, CA",862,US-CA-862,Sacramento-Stockton-Modesto CA
+274,274,"Logan, UT",770,US-NV-770,Salt Lake City UT
+275,275,"Salem, VA",573,US-VA-573,Roanoke-Lynchburg VA
+276,276,"Rama, ON",ON,CA-ON,Ontario
+277,277,"Duluth, MN",676,US-MN-676,Duluth MN-Superior WI
+278,278,"Wilkes-Barre, PA",577,US-PA-577,Wilkes Barre-Scranton PA
+279,279,"Rutland, VT",523,US-VT-523,Burlington VT-Plattsburgh NY
+280,280,"Red Bank, NJ",NJ,US-NJ,New Jersey
+281,281,"Cape Girardeau, MO",632,US-MO-632,Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL
+282,282,"Maryville, TN",557,US-TN-557,Knoxville TN
+283,283,"Snoqualmie , WA",819,US-WA-819,Seattle-Tacoma WA
+284,284,"Wenatchee, WA",810,US-WA-810,Yakima-Pasco-Richland-Kennewick WA
+285,285,"Redding, CA",868,US-CA-868,Chico-Redding CA
+286,286,"Temecula, CA",803,US-CA-803,Los Angeles CA
+287,287,"Indio, CA",804,US-CA-804,Palm Springs CA
+288,288,"Alto, NM",765,US-NM-765,El Paso TX
+289,289,"Santa Fe, NM",790,US-NM-790,Albuquerque-Santa Fe NM
+290,290,"Oxon Hill, MD",511,US-MD-511,Washington DC (Hagerstown MD)
+291,291,"Van Wert, OH",558,US-OH-558,Lima OH
+292,292,"Joliet, IL",602,US-IL-602,Chicago IL
+293,293,"Irving, TX",623,US-TX-623,Dallas-Ft. Worth TX
+294,294,"Newark, NJ",NJ,US-NJ,New Jersey
+295,295,"Fayetteville, NC",560,US-NC-560,Raleigh-Durham (Fayetteville) NC
+296,296,"Stamford, CT",,US-CT,Connecticut
+297,297,"Warren, OH",536,US-OH-536,Youngstown OH
+298,298,"Prince George, BC",BC,CA-BC,British Columbia
+299,299,"Kamloops, BC",BC,CA-BC,British Columbia
+300,300,"Lethbridge, AB",AB,CA-AB,Alberta
+301,301,"Red Deer, AB",AB,CA-AB,Alberta
+302,302,"Grand Forks, ND",724,US-ND-724,Fargo-Valley City ND
+303,303,"Dodge City, KS",678,US-KS-678,Wichita-Hutchinson KS
+304,304,"Salisbury, MD",576,US-MD-576,Salisbury MD
+305,305,"Panama City, FL",656,US-FL-656,Panama City FL
+306,306,"Tallahassee, FL",530,US-FL-530,Tallahassee FL Thomasvile GA
+307,307,"St. Paul, MN",613,US-MN-613,Minneapolis-St. Paul MN
+308,308,"Bloomsburg, PA",577,US-PA-577,Wilkes Barre-Scranton PA
+309,309,"Portsmouth, OH",564,US-OH-564,Charleston-Huntington WV
+310,310,"Brookings, SD",725,US-SD-725,Sioux Falls(Mitchell) SD
+311,311,"Normal, IL",675,US-IL-675,Peoria-Bloomington IL
+312,312,"Biloxi, MS",746,US-MS-746,Biloxi-Gulfport MS
+313,313,"Hamilton, ON",ON,CA-ON,Ontario
+314,314,"New York, NY",501,US-NY-501,New York NY
+315,315,"Carmel, CA",828,US-CA-828,Monterey-Salinas CA
+316,316,"Yakima, WA",810,US-WA-810,Yakima-Pasco-Richland-Kennewick WA
+317,317,"New Bedford, MA",521,US-MA-521,Providence RI-New Bedford MA
+318,318,"Bloomington, IL",675,US-IL-675,Peoria-Bloomington IL
+319,319,"Alma, AR",670,US-AR-670,Ft. Smith-Fayetteville-Springdale-Rogers AR
+320,320,"Beverly Hills, CA",803,US-CA-803,Los Angeles CA
+321,321,"Oakland, CA",807,US-CA-807,San Francisco-Oakland-San Jose CA
+322,322,"Fort Pierce, FL",548,US-FL-548,West Palm Beach-Ft. Pierce FL
+323,323,"Somerville, NJ",NJ,US-NJ,New Jersey
+324,324,"St. Petersburg, FL",539,US-FL-539,Tampa-St. Petersburg (Sarasota) FL
+325,325,"Beaver Creek, CO",751,US-CO-751,Denver CO
+326,326,"Lynn, MA",506,US-MA-506,Boston MA-Manchester NH
+327,327,"Ridgefield , CT",,US-CT,Connecticut
+328,328,"Hampton, VA",544,US-VA-544,Norfolk-Portsmouth-Newport News VA
+329,329,"Mexico City, n/a",DIF,MX-DIF,Mexico City MX
+330,330,"Fort Smith, AR",670,US-AR-670,Ft. Smith-Fayetteville-Springdale-Rogers AR
+331,331,"San Bernadino, CA",803,US-CA-803,Los Angeles CA
+332,332,"La Mirada, CA",803,US-CA-803,Los Angeles CA
+333,333,"Rosemont, IL",602,US-IL-602,Chicago IL
+334,334,"Ashland, KY",564,US-KY-564,Charleston-Huntington WV
+335,335,"Mansfield, OH",510,US-OH-510,Cleveland-Akron (Canton) OH
+336,336,"Hays, KS",678,US-KS-678,Wichita-Hutchinson KS
+337,337,"Bellingham, WA",819,US-WA-819,Seattle-Tacoma WA
+338,338,"Greeley, CO",751,US-CO-751,Denver CO
+339,339,"Pembroke, NC",560,US-NC-560,Raleigh-Durham (Fayetteville) NC
+340,340,"Columbia, MO",604,US-MO-604,Columbia-Jefferson City MO
+341,341,"Fairbanks, AK",745,US-AK-745,Fairbanks AK
+342,342,"Penticton, BC",BC,CA-BC,British Columbia
+343,343,"Chilliwack, BC",BC,CA-BC,British Columbia
+344,344,"Dawson Creek, BC",BC,CA-BC,British Columbia
+345,345,"Peterborough, ON",ON,CA-ON,Ontario
+346,346,"Sault Sainte Marie, ON",ON,CA-ON,Ontario
+347,347,"Sudbury, ON",ON,CA-ON,Ontario
+348,348,"Kingston, ON",ON,CA-ON,Ontario
+349,349,"Arcata, CA",802,US-CA-802,Eureka CA
+350,350,"Spartanburg, SC",567,US-SC-567,"Greenville-Spartanburg SC-Asheville NC-Anderson SC,"
+351,351,"Johnstown, PA",574,US-PA-574,Johnstown-Altoona PA
+352,352,"Mississauga, ON",ON,CA-ON,Ontario
+353,353,"Pasadena, CA",803,US-CA-803,Los Angeles CA
+354,354,"Guadalajara, ",JAL,MX-JAL,Jalisco
+355,355,"Long Beach, CA",803,US-CA-803,Los Angeles CA
+356,356,"Cerritos, CA",803,US-CA-803,Los Angeles CA
+357,357,"Mesa, AZ",753,US-AZ-753,Phoenix AZ
+358,358,"Purchase, NY",501,US-NY-501,New York NY
+359,359,"Myrtle Beach, SC",570,US-SC-570,Florence-Myrtle Beach SC
+360,360,"Grand Prairie, TX",623,US-TX-623,Dallas-Ft. Worth TX
+361,361,"Palm Beach, FL",548,US-FL-548,West Palm Beach-Ft. Pierce FL
+362,362,"New London, CT",,US-CT,Connecticut
+363,363,"La Jolla, CA",825,US-CA-825,San Diego CA
+364,364,"Rosemont, PA",504,US-PA-504,Philadelphia PA
+365,365,"Camden, NJ",NJ,US-NJ,New Jersey
+366,366,"Allentown, PA",504,US-PA-504,Philadelphia PA
+367,367,"Mobile, AL",686,US-AL-686,Mobile AL-Pensacola (Ft. Walton Beach) FL
+368,368,"Escondido, CA",825,US-CA-825,San Diego CA
+369,369,"Cupertino, CA",807,US-CA-807,San Francisco-Oakland-San Jose CA
+370,370,"Portsmouth, VA",544,US-VA-544,Norfolk-Portsmouth-Newport News VA
+371,371,"Scottsdale, AZ",753,US-AZ-753,Phoenix AZ
+372,372,"Mashantucket, CT",,US-CT,Connecticut
+373,373,"Mankato, MN",737,US-MN-737,Mankato MN
+374,374,"Durham, NH",506,US-NH-506,Boston MA-Manchester NH
+375,375,"Decatur, IL",648,US-IL-648,Champaign & Springfield-Decatur IL
+376,376,"Houma, LA",622,US-LA-622,New Orleans LA
+377,377,"Amherst, MA",543,US-MA-543,Springfield-Holyoke MA
+378,378,"Monroe, LA",628,US-LA-628,Monroe LA-El Dorado AR
+379,379,"Lake Charles, LA",643,US-LA-643,Lake Charles LA
+380,380,"Ft. Smith, AR",670,US-AR-670,Ft. Smith-Fayetteville-Springdale-Rogers AR
+381,381,"Wichita Falls, TX",627,US-TX-627,Wichita Falls TX & Lawton OK
+382,382,"Aurora, IL",602,US-IL-602,Chicago IL
+383,383,"Terre Haute, IN",581,US-IN-581,Terre Haute IN
+384,384,"St. John&amp;#039;s, NL",NL,CA-NL,Newfoundland and Labrador
+385,385,"Sydney, NS",NS,CA-NS,Nova Scotia
+386,386,"New Brunswick, NB",NB,CA-NB,New Brunswick
+387,387,"Lake Placid, NY",523,US-NY-523,Burliington VT-Plattsburgh NY
+388,388,"Auburn Hills, MI",505,US-MI-505,Detroit MI
+389,389,"Macomb, IL",675,US-IL-675,Peoria-Bloomington IL
+390,390,"Winston-Salem, NC",518,US-NC-518,Greensboro-High Point-Winston Salem NC
+391,391,"Springfield, MA",543,US-MA-543,Springfield-Holyoke MA
+392,392,"Andover, MA",506,US-MA-506,Boston MA-Manchester NH
+393,393,"Devon, PA",504,US-PA-504,Philadelphia PA
+394,394,"Westbury, NY",501,US-NY-501,New York NY
+395,395,"Ann Arbor, MI",505,US-MI-505,Detroit MI
+396,396,"Neenah, WI",658,US-WI-658,Green Bay-Appleton WI
+397,397,"Merrilville, IN",581,US-IN-581,South Bend-Elkhart IN
+398,398,"Quebec City, QC",QC,CA-QC,Québec
+399,399,"Livonia, MI",505,US-MI-505,Detroit MI
+400,400,"Tacoma, WA",810,US-WA-810,Yakima-Pasco-Richland-Kennewick WA
+401,401,"Boca Raton, FL",548,US-FL-548,West Palm Beach-Ft. Pierce FL
+402,402,"Fairfax, VA",511,US-VA-511,Washington DC (Hagerstown MD)
+403,403,"Sunrise, FL",528,US-FL-528,Miami-Ft. Lauderdale FL
+404,404,"Yountville, CA",807,US-CA-807,San Francisco-Oakland-San Jose CA
+405,405,"Santa Cruz, CA",807,US-CA-807,San Francisco-Oakland-San Jose CA
+406,406,"Redwood City, CA",807,US-CA-807,San Francisco-Oakland-San Jose CA
+407,407,"Monterey, CA",828,US-CA-828,Moneterey-Salinas CA
+408,408,"Walnut Creek, CA",807,US-CA-807,San Francisco-Oakland-San Jose CA
+409,409,"San Rafael, CA",807,US-CA-807,San Francisco-Oakland-San Jose CA
+410,410,"Merced, CA",862,US-CA-862,Sacramento-Stockton-Modesto CA
+411,411,"Visalia, CA",866,US-CA-866,Fresno-Visalia CA
+412,412,"Bremerton, WA",819,US-WA-819,Seattle-Tacoma WA
+413,413,"Fairfield, IA",673,US-IA-673,Cedar Rapids-Waterloo-Iowa City & Dubuque IA
+414,414,"Richardson, TX",623,US-TX-623,Dallas-Ft. Worth TX
+415,415,"North Bethesda, MD",511,US-MD-511,Washington DC (Hagerstown MD)
+416,416,"Derry, NH",506,US-NH-506,Boston MA-Manchester NH
+417,417,"Dixon, IL",610,US-IL-610,Rockford IL
+418,418,"Windsor, ON",ON,CA-ON,Ontario
+419,419,"Miami Beach, FL",528,US-FL-528,Miami-Ft. Lauderdale FL
+420,420,"Birmingham, MI",505,US-MI-505,Detroit MI
+421,421,"Findlay, OH",547,OH-547,Toledo OH
+422,422,"Poughkeepsie, NY",501,US-NY-501,New York NY
+423,423,"Chapel Hill, NC",560,US-NC-560,Raleigh-Durham (Fayetteville) NC
+424,424,"DeKalb, IL",610,US-IL-610,Rockford IL
+425,425,"Burlington, IA",637,US-IA-637,Cedar Rapids-Waterloo-Iowa City & Dubuque IA
+426,426,"Chambersburg, PA",566,US-PA-566,Harrisburg-Lancaster-Lebanon-York PA
+427,427,"Kingston, NY",523,US-NY-523,Albany-Schenactady-Troy NY
+428,428,"Storrs, CT",533,US-CT-533,Hartford & New Haven CT
+429,429,"Claremont, CA",803,US-CA-803,Los Angeles CA
+430,430,"Carbondale, IL",632,US-IL-632,Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL
+431,431,"Lawton, OK",627,US-OK-627,Wichita Falls TX & Lawton OK
+432,432,"Stratford, CT",533,US-CT-533,Hartford & New Haven CT
+433,433,"Grambling, LA",628,US-LA-628,Monroe LA-El Dorado AR
+434,434,"Ruston, LA",628,US-LA-628,Monroe LA-El Dorado AR
+435,435,"Montgomery, NY",501,US-NY-501,New York NY
+436,436,"Asheville, NC",567,US-NC-567,"Greenville-Spartanburg SC-Asheville NC-Anderson SC,"
+437,437,"Sandusky, OH",510,US-OH-510,Cleveland-Akron (Canton) OH
+438,438,"Jackson, MI",551,US-MI-551,Lansing MI
+439,439,"Eau Claire, WI",702,US-WI-702,La Crosse-Eau Claire WI
+440,440,"Bunnell, FL",534,US-FL-534,Orlando-Daytona Beach-Melbourne FL
+441,441,"Muskegon, MI",563,US-MI-563,Grand Rapids-Kalamazoo-Battle Creek MI
+442,442,"Johnson City, TN",531,US-TN-531,Tri-Cities TN-VA
+443,443,"Olympia, WA",819,US-WA-819,Seattle-Tacoma WA
+444,444,"Farmington, NM",790,US-NM-790,Albuquerque-Santa Fe NM
+445,445,"Beaumont, TX",692,US-TX-692,Beaumont-Port Arthur TX 
+446,446,"Germantown, TN",640,US-TN-640,Memphis TN
+447,447,"Salina, KS",678,US-KS-678,Wichita-Hutchinson KS
+448,448,"Tahlequa, OK",671,US-OK-671,Tulsa OK
+449,449,"Decorah, IA",702,US-MN-702,La Crosse-Eau Claire WI
+450,450,"Elyria, OH",510,US-OH-510,Cleveland-Akron (Canton) OH
+451,451,"Royal Oak, MI",505,US-MI-505,Detroit MI
+452,452,"Oshkosh, WI",658,US-WI-658,Green Bay-Appleton WI
+453,453,"Princeton, NJ",NJ,US-NJ,New Jersey
+454,454,"Newburgh, NY",501,US-NY-501,New York NY
+455,455,"Toms River, NJ",NJ,US-NJ,New Jersey
+456,456,"Harlingen, TX",636,US-TX-636,Harlingen-Weslaco-Brownsville-McAllen TX
+457,457,"Port Huron, MI",505,US-MI-505,Detroit MI
+458,458,"Stillwater, OK",650,US-OK-650,Oklahoma City OK
+459,459,"Ithaca, NY",565,US-NY-565,Elmira NY
+460,460,"Holmdel, NJ",NJ,US-NJ,New Jersey
+461,461,"Waverly, IA",637,US-IA-637,Cedar Rapids-Waterloo-Iowa City & Dubuque IA
+462,462,"Davie, FL",528,US-FL-528,Miami-Ft. Lauderdale FL
+463,463,"Maryville, MO",638,US-MO-638,St. Joseph MO
+464,464,"Glendora, CA",803,US-CA-803,Los Angeles CA
+465,465,"Elkhart, IN",588,US-IN-588,South Bend-Elkhart IN
+466,466,"Tiffin, OH",547,US-OH-547,Toledo OH
+467,467,"Denton, TX",623,US-TX-623,Dallas-Ft. Worth TX
+468,468,"Waukegan, IL",602,US-IL-602,Chicago IL
+469,469,"Jackson, TN",639,US-TN-639,Jackson TN
+470,470,"Oneida, NY",555,US-NY-555,Syracuse NY 
+471,471,"Waco, TX",625,US-TX-625,Waco-Temple-Bryan TX
+472,472,"Pittsfield, MA",543,US-MA-543,Springfield-Holyoke MA
+473,473,"Middletown, NY",501,US-NY-501,New York NY
+474,474,"Emmitsburg, MD",511,US-MD-511,Washington DC (Hagerstown MD)
+475,475,"Fayette, IA",637,US-IA-637,Cedar Rapids-Waterloo-Iowa City & Dubuque IA
+476,476,"Rock Hill, SC",517,US-SC-517,Charlotte NC
+477,477,"Santa Rosa, CA",807,US-CA-807,San Francisco-Oakland-San Jose CA
+478,478,"Overland Park, KS",616,US-KS-616,Kansas City MO
+479,479,"Pikeville, KY",564,US-KY-564,Charleston-Huntington WV
+480,480,"Lorain, OH",510,US-OH-510,Cleveland-Akron (Canton) OH
+481,481,"Greensburg, PA",508,US-PA-508,Pittsburgh PA
+482,482,"Tarrytown, NY",501,US-NY-501,New York NY
+483,483,"Lebanon, NH",523,US-NH-523,Burlington VT-Plattsburgh NY
+484,484,"Beverly, MA",506,US-MA-506,Boston MA-Manchester NH
+485,485,"Waterloo, IA",637,US-IA-637,Cedar Rapids-Waterloo-Iowa City & Dubuque IA
+486,486,"Central City, CO",751,US-CO-751,Denver CO
+487,487,"Vestal, NY",502,US-NY-502,Binghamton NY
+488,488,"New Britain, CT",533,US-CT-533,Hartford & New Haven CT
+489,489,"Danville, VA",573,US-VA-573,Roanoke-Lynchburg VA
+490,490,"Northampton, MA",543,US-MA-543,Springfield-Holyoke MA
+491,491,"St. Cloud, MN",613,US-MN-613,Minneapolis-St. Paul MN
+492,492,"Spearfish, SD",764,US-SD-764,Rapid City SD
+493,493,"Havre, MT",755,US-MT-755,Great Falls MT
+494,494,"Selma, AL",698,US-AL-698,Montgomery (Selma) AL
+495,495,"Clarksdale, MS",647,US-MS-647,Greenwood-Greenville MS
+496,496,"Camden, AR",628,US-AR-628,Monroe LA-El Dorado AR
+497,497,"Great Bend, KS",678,US-KS-678,Wichita-Hutchinson KS
+498,498,"Belvidere, IL",610,US-IL-610,Rockford IL
+499,499,"Mt. Lebanon, PA",508,US-PA-508,Pittsburgh PA
+500,500,"Morgan City, MS",647,US-MS-647,Greenwood-Greenville MS
+501,501,"Flagstaff, AZ",753,US-AZ-753,Phoenix AZ
+502,502,"Freeport, IL",610,US-IL-610,Rockford IL 
+503,503,"Starkville, MS",672,US-MS-672,Columbus-Tupelo-West Point MS
+504,504,"Nacogdoches, TX",709,US-TX-709,Tyler-Longview(Lufkin & Nacogdoches) TX
+505,505,"Collegeville, MN",613,US-MN-613,Minneapolis-St. Paul MN
+506,506,"Southfield, MI",505,US-MI-505,Detroit MI
+507,507,"Oswego, NY",555,US-NY-555,Syracuse NY
+508,508,"Mahanoy City, PA",577,US-PA-577,Wilkes Barre-Scranton PA
+509,509,"Brownwood, TX",662,US-TX-662,Abilene-Sweetwater TX
+510,510,"Lovington, NM",790,US-NM-790,Albuquerque-Santa Fe NM
+511,511,"West Covina, CA",803,US-CA-803,Los Angeles CA
+512,512,"Anaheim, CA",803,US-CA-803,Los Angeles CA
+513,513,"San Carlos, CA",807,US-CA-807,San Francisco-Oakland-San Jose CA
+514,514,"Corvallis, OR",801,US-OR-801,Eugene OR
+515,515,"Rochester, MN",611,US-MN-611,Rochester MN-Mason City IA-Austin MN
+516,516,"Modesto, CA",862,US-CA-862,Sacramento-Stockton-Modesto CA
+517,517,"North Salt Lake City, UT",770,US-NV-770,Salt Lake City UT
+518,518,"Caldwell, ID",757,US-ID-757,Boise ID
+519,519,"Queens, NY",501,US-NY-501,New York NY
+520,520,"Mineola, NY",501,US-NY-501,New York NY
+521,521,"Auburn, AL",522,US-AL-522,Columbus GA
+522,522,"Framingham, MA",506,US-MA-506,Boston MA-Manchester NH
+523,523,"North Tonowanda, NY",514,US-NY-514,Buffalo NY
+524,524,"Warrensville Heights, OH",510,US-OH-510,Cleveland-Akron (Canton) OH
+525,525,"Owings Mills, MD",512,US-MD-512,Baltimore MD
+526,526,"Haddonfield, NJ",NJ,US-NJ,New Jersey
+527,527,"Lynchburg, VA",573,US-VA-573,Roanoke-Lynchburg VA
+528,528,"Bridgeport, CT",533,US-CT-533,Hartford & New Haven CT
+529,529,"Berkeley, CA",807,US-CA-807,San Francisco-Oakland-San Jose CA
+530,530,"Santa Monica, CA",803,US-CA-803,Los Angeles CA
+531,531,"Banff, AB",AB,CA-AB,Alberta
+532,532,"Marshall, TX",709,US-TX-709,Tyler-Longview(Lufkin & Nacogdoches) TX
+533,533,"Bryan, TX",625,US-TX-625,Bryan TX
+534,534,"Lansing, MI",551,US-MI-551,Lansing MI
+535,535,"Fall River, MA",521,US-MA-521,Providence RI-New Bedford MA
+536,536,"Danbury, CT",,US-CT,Connecticut
+537,537,"Ft. Lauderdale, FL",528,US-FL-528,Miami-Ft. Lauderdale FL
+538,538,"Anderson, IN",527,US-IN-527,Indianapolis IN
+539,539,"Altoona, PA",574,US-PA-574,Johnstown-Altoona PA
+540,540,"Montreal, QB",QB,CA-QB,Quebec
+541,541,"Lambertville, NJ",NJ,US-NJ,New Jersey
+542,542,"El Dorado, AR",628,US-AR-628,Monroe LA-El Dorado AR
+543,543,"Jefferson City, MO",604,US-MO-604,Columbia-Jefferson City MO
+544,544,"Joplin, MO",603,US-MO-603,Joplin MO-Pittsburg KS
+545,545,"Harrisburg, PA",566,US-PA-566,Harrisburg-Lancaster-Lebanon-York PA
+546,546,"Torrington, CT",,US-CT,Connecticut
+547,547,"Palo Alto, CA",807,US-CA-807,San Francisco-Oakland-San Jose CA
+548,548,"Palm Springs, CA",804,US-CA-804,Palm Springs CA
+549,549,"St. Joseph, MI",588,US-MI-588,South Bend-Elkhart IN
+550,550,"Stevens Point, WI",705,US-WI-705,Wausau-Rhinelander WI
+551,551,"New Wilmington, PA",508,US-PA-508,Pittsburgh PA
+552,552,"Battle Creek, MI",563,US-MI-563,Grand Rapids-Kalamazoo-Battle Creek MI
+553,553,"Bronx, NY",501,US-NY-501,New York NY
+554,554,"Brooklyn, NY",501,US-NY-501,New York NY
+555,555,"Marblehead, MA",506,US-MA-506,Boston MA-Manchester NH
+556,556,"Radford, VA",573,US-VA-573,Roanoke-Lynchburg VA
+557,557,"West Chester, PA",504,US-PA-504,Philadelphia PA
+558,558,"Emporia, KS",678,US-KS-678,Wichita-Hutchinson KS
+559,559,"Paramus, NJ",NJ,US-NJ,New Jersey
+560,560,"Odessa, TX",633,US-TX-633,Odessa-Midland TX
+561,561,"Columbia, MD",512,US-MD-512,Baltimore MD
+562,562,"Grove City, PA",508,US-PA-508,Pittsburgh PA
+563,563,"Montclair, NJ",NJ,US-NJ,New Jersey
+564,564,"St. Clair Shores, MI",505,US-MI-505,Detroit MI
+565,565,"Whittier, CA",803,US-CA-803,Los Angeles CA
+566,566,"Hattiesburg, MS",710,US-MS-710,Hattiesburg-Laurel MS
+567,567,"Sumter, SC",546,US-SC-546,Columbia SC
+568,568,"Gloucester, VA",556,US-VA-556,Richmond-Petersburg VA
+569,569,"Clarion, PA",508,US-PA-508,Pittsburgh PA
+570,570,"Selinsburg, PA",566,US-PA-566,Harrisburg-Lancaster-Lebanon-York PA
+571,571,"Greenwich, CT",CT,US-CT,Connecticut
+572,572,"Elizabeth, NJ",NJ,US-NJ,New Jersey
